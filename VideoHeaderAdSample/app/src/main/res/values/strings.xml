@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">VideoHeaderAdSample</string>
+
+    <!-- Main Activity -->
+    <string name="activity_main_title">Equativ Kotlin Sample</string>
+    <string name="title_activity_main_short">SAS Sample</string>
+    <string-array name="activity_main_implementations_array">
+        <item>Video Header Ad</item>
+    </string-array>
+    <string name="activity_main_headerText">CHOOSE A SAMPLE:</string>
+    <string name="activity_main_footerText">This sample demonstrates how to implement the Equativ Display SDK in Android applications.</string>
+
+    <!-- Video Header Ad Activity -->
+    <string name="activity_video_header_ad_title">Video header ad integration</string>
+    <string name="activity_video_header_ad_header_title">HEADER AD PLACEHOLDER</string>
+    <string name="activity_video_header_ad_header_instructions">Video header ad integration in RecyclerView. See implementation in VideoHeaderAdActivity.</string>
+
+    <!-- Content filler -->
+    <string name="lorem_ipsum_title">Lorem ipsum dolor sit amet</string>
+    <string name="lorem_ipsum_content">Phasellus in tellus eget arcu volutpat bibendum vulputate ac sapien. Vivamus enim elit, gravida vel consequat sit amet, scelerisque vitae ex.</string>
+
+</resources>
